@@ -1,2 +1,2 @@
-# Codsoft
+# Calculator
 Codsoft Android Internship
